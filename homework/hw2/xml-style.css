@@ -1,0 +1,51 @@
+* {
+    display:block;
+    background-color: #eadecb;
+    font-family: 'Brill';
+}
+lb {
+    line-height: 25px;
+}
+space {
+    line-height: 100px;
+}
+[rendition~="#center"] {
+    text-align: center;
+}
+[rendition~="#x-small"] {
+    font-size: 80%;
+}
+[rendition~="#xx-small"] {
+    font-size: 70%;
+}
+[rendition~="#medium"] {
+    font-size: 90%;
+}
+[rendition~="#large"] {
+    font-size: 110%;
+}
+[rendition~="#x-large"] {
+    font-size: 125%;
+}
+[rendition~="#xx-large"] {
+    font-size: 150%;
+}
+[rendition~="#xxx-large"] {
+    font-size: 160%;
+    font-family: 'OPTISerlio';
+    color: #9d382e;
+}
+[rendition~="#uppercase"] {
+    text-transform: uppercase;
+}
+[rendition~="#red"] {
+    color: #9d382e;
+}
+@font-face {
+    font-family: OPTISerlio;
+    src: url("css/OPTISerlio.otf") format("opentype"); 
+}
+@font-face {
+    font-family: Brill;
+    src: url("css/myFont2.ttf") format("opentype"); 
+}

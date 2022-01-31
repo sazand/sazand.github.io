@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="xml-style.css" type="text/css"?>
+<titlePage>
+    <docTitle rendition="#center">
+        <titlePart type="main">
+            <hi rendition="#xx-large #uppercase">The Poems</hi>
+            <lb/>
+            <hi rendition="#xx-small #uppercase">of</hi>
+            <lb/>
+            <hi rendition="#red #xxx-large #uppercase">Algernon Charles Swinburne</hi>
+        </titlePart>
+            <space/>
+        <titlePart type="main">
+            <hi rendition="#medium #uppercase">In Six Volumes</hi>
+        </titlePart>
+        <space/>
+        <titlePart type="main"> 
+            <hi rendition="#x-small #uppercase">Volume I.</hi>
+            <lb/>
+            <hi rendition="#red #x-large #uppercase">Poems and Ballads</hi>
+            <lb/> 
+            <hi rendition="#x-small #uppercase">First Series</hi> 
+        </titlePart>
+    </docTitle>
+    <docImprint rendition="#center #uppercase">
+        <space/>
+        <space/>
+        <pubPlace rendition="#large">London</pubPlace>
+        <lb/>
+        <publisher rendition="#red #x-large">Chatto &amp; Windus</publisher>
+        <lb/>
+        <docDate when="1904" rendition="#small">1904</docDate>
+    </docImprint>
+</titlePage>

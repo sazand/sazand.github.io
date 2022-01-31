@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<letter>
+    <head>
+        <image size="small" content="ASPEN LOGO" width="300px" height="500px"/>
+        <name>THE ASPEN COMPANY</name>
+    </head>
+    <title> A PERSONAL LETTER FROM STIVE MARTIN</title>
+    <greeting> DEAR JENNY</greeting>
+    <paragraph>WHAT A PLEASURE IT WAS TO RECEIVE A LETTER FROM YOU. ALTHOUGH<endoftheline/> MY SCHEDULE IS VERY BUSY, I DECIDED TO TAKE TIME OUT TO WRITE YOU<endoftheline/>A PERSONAL REPLY.</paragraph>
+    <paragraph> TOO OFTEN PREFORMERS LOSE CONTACT WITH THEIR AUDIANCE AND BEGIN<endoftheline/>TO TAKE THEM FOR GRANTED, BUT I DON'T THINK THAT WILL EVER HAPPEN TO<endoftheline/>MI WILL IT JENNY? I DON'T KNOW WHEN I WILL BE APPEARING<endoftheline/>CLOSE TO YOU, BUT KEEP THAT EXTRA BUNK MADE UP IN CASE OF I GET TO<endoftheline/>FLIRT </paragraph>
+    <signature> SINCERELY<endoftheline/>STIVE MARTIN</signature>
+    <postscript>I WILL ALWAYS CHERISH THAT AFTERNOON WE SPENT TOGETHER IN RIO,<endoftheline/>WALKING ALONG THE BEACH, LOOKING AT ROCKS</postscript>
+</letter>
