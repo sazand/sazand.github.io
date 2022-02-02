@@ -10,7 +10,7 @@ div.rocks {
     background-color: orange;
     padding: 20px;
 }
-dive.available {
+div.available {
     background-color:gray;
     padding: 10px 0 10px 10px;
     margin-bottom: 15px;
@@ -20,6 +20,6 @@ span.tagline {
     border-style: solid;
     padding: 10px;  
 }
-Img {
+img {
     background-color: white;
 }
