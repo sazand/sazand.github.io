@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NAME, Digital Publishing Expert, launches site"
+title: "Sassan, Digital Publishing Expert, launches site"
 date: 2022-01-31
 ---
 
